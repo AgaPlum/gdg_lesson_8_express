@@ -5,16 +5,16 @@ body {
 }
 
 .title {
-    color: darkred;
+    color: orange;
 }
 
 .main-text {
-    color: darkred;
+    color: yellow;
     font-style: italic;
 }
 
 .small-text {
-    color: darkred;
+    color: yellowgreen;
     font-style: italic;
     font-size: 0.5rem;
 }
